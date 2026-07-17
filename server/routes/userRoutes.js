@@ -1,0 +1,18 @@
+import {paymentRazorpay, registerUser, userCredits, verifyRazorpay} from "../controllers/userControllers.js";
+import {loginUser} from "../controllers/userControllers.js";
+import express from 'express';
+import userAuth from "../middlewares/auth.js";
+
+const userRouter = express.Router()
+// const app = express();
+
+
+// app.use(express.json());
+
+
+userRouter.post('/register', registerUser)
+userRouter.post('/login', loginUser)
+userRouter.get('/credits',userAuth, userCredits)
+userRouter.post('/pay-razor',userAuth, paymentRazorpay)
+userRouter.post('/verify-razor', verifyRazorpay)
+export default userRouter
