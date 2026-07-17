@@ -1,4 +1,4 @@
-# 🎨 VisionCraft
+#  VisionCraft
 
 <h1 align="center">VisionCraft</h1>
 
@@ -31,7 +31,7 @@
 
 ---
 
-# ✨ Features
+#  Features
 
 -  Secure JWT Authentication
 -  AI-Powered Image Generation
@@ -48,7 +48,7 @@
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ## Frontend
 
@@ -78,7 +78,7 @@
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 VisionCraft
@@ -109,7 +109,7 @@ VisionCraft
 
 ---
 
-# 🚀 Getting Started
+#  Getting Started
 
 ## 1️⃣ Clone the Repository
 
@@ -159,7 +159,7 @@ http://localhost:4000
 
 ---
 
-# 🔑 Environment Variables
+#  Environment Variables
 
 Create a `.env` file inside the **server** directory.
 
@@ -181,7 +181,7 @@ CURRENCY=INR
 
 ---
 
-# ⚙️ Workflow
+#  Workflow
 
 ```text
 User Login/Register
@@ -210,7 +210,7 @@ Preview & Download Image
 
 ---
 
-# 🎯 How It Works
+#  How It Works
 
 ### 🔹 Step 1
 
@@ -250,7 +250,7 @@ Preview and download the generated artwork.
 
 ---
 
-# 🌟 Future Enhancements
+#  Future Enhancements
 
 -  Image History
 -  Favorites
@@ -267,11 +267,11 @@ If you like this project, ⭐ Star the repository
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 ## **Pathivada Sathwik**
 
-📧 Email: **pathivadas.ug23.cs@nitp.ac.in**
+    Email: **pathivadas.ug23.cs@nitp.ac.in**
 
 🔗 GitHub: https://github.com/sathwik123677
 
