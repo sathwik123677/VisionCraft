@@ -1,4 +1,3 @@
-#  VisionCraft
 
 <h1 align="center">VisionCraft</h1>
 
