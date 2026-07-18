@@ -21,12 +21,12 @@
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
 
 </p>
-
 ---
 
-## 📸 Preview
+## 🚀 Live Demo
 
-> **Coming Soon**
+- **🌐 Frontend:** [https://your-frontend-url.vercel.app](https://vision-craft-chi.vercel.app/)
+- **⚙️ Backend API:** [https://your-backend-url.onrender.com](https://vision-craft-backend.vercel.app/)
 
 ---
 
