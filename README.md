@@ -25,8 +25,8 @@
 
 ## 🚀 Live Demo
 
-- **🌐 Frontend:** [https://your-frontend-url.vercel.app](https://vision-craft-chi.vercel.app/)
-- **⚙️ Backend API:** [https://your-backend-url.onrender.com](https://vision-craft-backend.vercel.app/)
+- **🌐 Frontend:** [https://vision-craft-chi.vercel.app](https://vision-craft-chi.vercel.app/)
+- **⚙️ Backend API:** [https://vision-craft-backend.vercel.app](https://vision-craft-backend.vercel.app/)
 
 ---
 
